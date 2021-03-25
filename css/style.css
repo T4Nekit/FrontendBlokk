@@ -1,0 +1,15 @@
+.nav-link {
+	color:#444444;
+}
+.nav-link.active {
+	color: #30a3f0;
+}
+.title p {
+	color: #30a3f0;
+}
+.title h1 {
+	color: #ffffff;
+}
+.btn {
+	color: #30a3f0;
+}
